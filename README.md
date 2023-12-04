@@ -9,3 +9,4 @@ ChinnaBabuVanarasi/ChinnaBabuVanarasi is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChinnaBabuVanarasi/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ChinnaBabuVanarasi/repos?time_range=one_year&theme=classic](https://githubtrends.io)
